@@ -8,7 +8,7 @@ body {
     font-family: sans-serif;
 }
 
-img-celular {
+.img-celular {
     width: 450px;
 }
 
@@ -60,9 +60,9 @@ button {
 }
 
 .img-insta {
-    height: 1097px;
+    height: 520px;
     position: absolute;
-    left: 308px;
-    top: 50px;
+    left: 153px;
+    top: 26px;
     transition: 2s ease-in-out;
 }
